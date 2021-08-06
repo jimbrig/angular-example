@@ -1,4 +1,4 @@
-![Angular Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/angular.svg)
+![Angular Logo](https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/angular.svg)
 
 # Angular Example
 
